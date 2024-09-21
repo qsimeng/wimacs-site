@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-subtitle: Faculty members and student representatives in Our Group.
+subtitle: Faculty members and Student Representatives
 ---
 
 Team members
