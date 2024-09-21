@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About WiMCS
+subtitle: A supportive community group for women in Mathematics and Computer Science.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Women in Mathematics and Computer Science (WiMCS) is set to become an official Community Group at Swansea University, dedicated to increasing the number of women pursuing studies or research in the Mathematics and Computer Science Department. The WiMCS group will organize a mentorship program, host career and research-focused events, and provide networking opportunities that connect women in the early stages of their academic careers with mentorship and support.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
