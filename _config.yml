@@ -21,9 +21,7 @@ author: Contributors
 
 navbar-links:
   About: "aboutme"
-  Events:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Events: "events"
   Team: "team"
 
 ################
