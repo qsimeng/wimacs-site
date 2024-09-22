@@ -3,7 +3,7 @@ layout: null
 ---
 
 body {
-  background-image: url('/assets/img/your-background-image.jpg'); /* Replace with the correct path to your image */
+  background-image: url('/assets/img/swan.png'); /* Replace with the correct path to your image */
   background-size: cover;   /* Makes the image cover the entire page */
   background-position: center;  /* Centers the image */
   background-repeat: no-repeat; /* Prevents repeating */
