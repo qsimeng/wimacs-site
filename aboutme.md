@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About WiMCS
+title: WiMCS
 subtitle: A supportive Community Group for WiMCS
 ---
 
