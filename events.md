@@ -10,3 +10,5 @@ WiMCS welcomes people at different stages of their careers or studies! Through m
 
 Attending our upcoming events by joining our [mailing list](simeng.qiu@swansea.ac.uk)! 
 
+![Ada Lovelace Day](assets/img/ada.png)
+
