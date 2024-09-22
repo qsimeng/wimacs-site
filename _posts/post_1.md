@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Women in Mathematics and Computer Science
-subtitle: WiMCS
-thumbnail-img: /assets/img/thumb.png
+title: Announcement
+subtitle: Our first event will take place on Ada Lovelace Day!
+thumbnail-img: /assets/img/ada.png
 ---
 
