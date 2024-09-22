@@ -1,4 +1,4 @@
----
+ccc---
 layout: null
 ---
 
@@ -1125,10 +1125,12 @@ pre {
 }
 
 
-img[alt="Member Name"] {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
+.member-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    float: left;
 }
 
