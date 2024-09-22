@@ -6,7 +6,7 @@ subtitle: Faculty members and Student Representatives
 
 
 ### Simeng Qiu
-![Simeng Qiu](assets/img/s.png)
+<img src="/assets/img/s.png" alt="Member 1" class="member-photo">
 
 **Description:** Lecturer in Visual Computing, Computer Science.
 
