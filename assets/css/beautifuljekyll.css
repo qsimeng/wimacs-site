@@ -1123,12 +1123,3 @@ pre {
     display: inline-block;
   }
 }
-
-.member-photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 15px;
-    float: left;
-}
