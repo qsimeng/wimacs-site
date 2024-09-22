@@ -6,7 +6,7 @@ subtitle: Faculty members and Student Representatives
 
 
 ### Simeng Qiu
-<img src="/assets/img/m.png" alt="Member 1" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="/assets/img/s.png" alt="Member 1" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
 **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
@@ -20,27 +20,27 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### Megan Venn-Wycherley
-<img src="/assets/img/m.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="/assets/img/me.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
 **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
 ---
 
 ### Casey Hopkins
-<img src="/assets/img/m.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="/assets/img/c.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
 **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
 ---
 
 ### Solmaz Safari
-<img src="/assets/img/m.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
 **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
 ---
 
 ### Student Leader
-<img src="/assets/img/m.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="/assets/img/swan.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
  
 **Description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
