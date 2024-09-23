@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcement
-subtitle: Our first event will take place on Ada Lovelace Day!
+subtitle: Join us in meeting our team members and celebrate our first event on Ada Lovelace Day!
 thumbnail-img: /assets/img/ada.png
 ---
 
