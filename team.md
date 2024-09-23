@@ -33,6 +33,13 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### BETSY DAYANA MARCELA CHAPARRO RICO
+<img src="/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+
+**Description:** Solmaz Safari is a tutor in the department of Computer science, Swansea University.
+
+---
+
 ### Solmaz Safari
 <img src="/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
