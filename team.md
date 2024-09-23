@@ -13,7 +13,7 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### Monika Seisenberger
-<img src="/assets/img/m.png" alt="Member 2" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
   
 **Description:** Monika Seisenberger is an Associate Professor in the Department of Computer Science, Swansea University.
 
