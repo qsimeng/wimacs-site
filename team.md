@@ -20,35 +20,35 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### Megan Venn-Wycherley
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/me.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/me.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Megan Venn-Wycherley is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University.
 
 ---
 
 ### Casey Hopkins
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Casey Hopkins is a Lecturer in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Solmaz Safari
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Solmaz Safari is a Tutor in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Betsy Dayana Marcela Chaparro Rico
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Betsy Dayana Marcela Chaparro Rico is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Olga Petrovska
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Olga Petrovska is a Teaching Fellow in the Department of Computer Science at Swansea University.
 
