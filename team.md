@@ -43,7 +43,7 @@ subtitle: Faculty members and Student Representatives
 ### Betsy Dayana Marcela Chaparro Rico
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
-**Description:** Solmaz Safari is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
+**Description:** Betsy Dayana Marcela Chaparro Rico is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
 
 ---
 
