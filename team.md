@@ -6,14 +6,14 @@ subtitle: Faculty members and Student Representatives
 
 
 ### Simeng Qiu
-<img src="assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover;">
+<img src="/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover;">
 
 **Description:** Lecturer in Visual Computing, Computer Science.
 
 ---
 
 ### Monika Seisenberger
-<img src="assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+<img src="/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
   
 **Description:** Monika Seisenberger is an Associate Professor in the Department of Computer Science, Swansea University.
 
