@@ -8,46 +8,52 @@ subtitle: Faculty members and Student Representatives
 ### Simeng Qiu
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover;">
 
-**Description:** Lecturer in Visual Computing, Computer Science.
+**Description:** Simeng Qiu is a Lecturer in Visual Computing in the Department of Computer Science at Swansea University..
 
 ---
 
 ### Monika Seisenberger
-<img src="/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
   
-**Description:** Monika Seisenberger is an Associate Professor in the Department of Computer Science, Swansea University.
+**Description:** Monika Seisenberger is an Associate Professor in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Megan Venn-Wycherley
-<img src="/assets/img/me.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/me.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
-**Description:** Lecturer in Educational, Historical and Philosophical Foundations of Computer Science, Computer Science.
+**Description:** Megan Venn-Wycherley is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University.
 
 ---
 
 ### Casey Hopkins
-<img src="/assets/img/c.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
-**Description:** Casey Hopkins is a lecturer in the Department of Computer Science at Swansea University.
-
----
-
-### BETSY DAYANA MARCELA CHAPARRO RICO
-<img src="/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
-
-**Description:** Solmaz Safari is a tutor in the department of Computer science, Swansea University.
+**Description:** Casey Hopkins is a Lecturer in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Solmaz Safari
 <img src="/assets/img/so.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
 
-**Description:** Solmaz Safari is a tutor in the department of Computer science, Swansea University.
+**Description:** Solmaz Safari is a Tutor in the Department of Computer Science at Swansea University.
+
+---
+
+### Betsy Dayana Marcela Chaparro Rico
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+
+**Description:** Solmaz Safari is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
+
+---
+
+### Olga Petrovska
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
+
+**Description:** Olga Petrovska is a Teaching Fellow in the Department of Computer Science at Swansea University.
 
 ---
 
 ### Student Leader
-<img src="/assets/img/swan.png" alt="Member 3" style="width:200px;height:auto;float:left;margin-right:15px;border-radius:50%;">
  
-**Description:** We are seeking for student leader!
+**Description:** We are seeking for student representatives!
