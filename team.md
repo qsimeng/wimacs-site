@@ -34,7 +34,7 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### Solmaz Safari
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: contain;">
 
 **Description:** Solmaz Safari is a Tutor in the Department of Computer Science at Swansea University.
 
@@ -44,6 +44,13 @@ subtitle: Faculty members and Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
 **Description:** Betsy Dayana Marcela Chaparro Rico is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
+
+---
+
+### Lu Zhang
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+
+**Description:** Lu Zhang is a Lecturer in the Department of Computer Science at Swansea University.
 
 ---
 
