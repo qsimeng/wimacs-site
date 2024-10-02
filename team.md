@@ -29,7 +29,7 @@ subtitle: Faculty members and Student Representatives
 ### Casey Hopkins
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
-**Description:** Casey Hopkins is a Lecturer in the Department of Computer Science at Swansea University.
+**Description:** Casey Hopkins is a Senior Lecturer in the Department of Computer Science at Swansea University.
 
 ---
 
