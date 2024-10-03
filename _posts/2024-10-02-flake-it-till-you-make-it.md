@@ -6,9 +6,9 @@ thumbnail-img: /assets/img/ada.png
 ---
 
 <div style="text-align: justify;">
-Time: October 17th, 1pm-2:30pm.
+Time: October 17th, 12:00 noon.
 </div>
 
 <div style="text-align: justify;">
-Location: CoFo 401, Swansea University Bay Campus.
+Location: CoFo 102, Swansea University Bay Campus.
 </div>
