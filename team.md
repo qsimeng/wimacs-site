@@ -54,6 +54,13 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### Yuanbo Wu
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/y.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+
+**Description:** Yuanbo Wu is a Senior Lecturer in the Department of Computer Science at Swansea University.
+
+---
+
 ### Olga Petrovska
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
 
