@@ -68,6 +68,28 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### Professor Elaine Crooks
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+
+**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is a Professor in the Department of Mathematics at Swansea University.
+
+---
+
+### Dr Nelly Villamizar
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ne.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+
+**Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
+
+---
+
+### Dr Noemi Picco
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: contain;">
+
+**Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer in the Department of Mathematics at Swansea University.
+
+---
+
+
 ### Student Leader
  
 **Description:** We are seeking for student representatives!
