@@ -6,7 +6,7 @@ subtitle: Faculty members and Student Representatives
 
 
 ### Dr Simeng Qiu
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** Simeng Qiu is a Lecturer in Computational Imaging in the Department of Computer Science at Swansea University..
 
