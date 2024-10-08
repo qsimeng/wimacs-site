@@ -12,6 +12,13 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### Professor Elaine Crooks
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is a Professor in the Department of Mathematics at Swansea University.
+
+---
+
 ### Dr Monika Seisenberger
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
@@ -64,13 +71,6 @@ subtitle: Faculty members and Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Olga Petrovska](https://www.swansea.ac.uk/staff/o.petrovska/) is a Teaching Fellow in the Department of Computer Science at Swansea University.
-
----
-
-### Professor Elaine Crooks
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is a Professor in the Department of Mathematics at Swansea University.
 
 ---
 
