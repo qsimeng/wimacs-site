@@ -63,6 +63,7 @@ subtitle: Faculty members and Student Representatives
 
 ### Dr Lu Zhang
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
 **Description:** Lu Zhang is a Lecturer in the Department of Computer Science at Swansea University.
 
 ---
