@@ -15,7 +15,7 @@ subtitle: Faculty members and Student Representatives
 ### Professor Elaine Crooks
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is a Professor in the Department of Mathematics at Swansea University. She is the Head of School of Mathematics and Computer Science.
+**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is in the Department of Mathematics at Swansea University. She is the Head of School of Mathematics and Computer Science.
 
 ---
 
@@ -61,6 +61,12 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### Professor Jen Pearson
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/j.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Professor Jen Pearson](https://www.swansea.ac.uk/staff/j.pearson/) is in the Department of Computer Science at Swansea University.
+
+---
 ### Dr Lu Zhang
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
