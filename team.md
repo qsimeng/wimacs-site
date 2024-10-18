@@ -103,6 +103,16 @@ subtitle: Faculty members and Student Representatives
 ---
 
 
-### Student Leader
- 
-**Description:** We are seeking for student representatives!
+### Tanaka Masunzambwa
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** Tanaka Masunzambwa is a second-year student studying Computer Science at Swansea university. She is also the President of the Women in Engineering Society and a Student Ambassador.
+
+---
+
+### Lakshmi Venugopal 
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** Lakshmi Venugopal is a first-year student studying Computer Science at Swansea university.
+
+---
