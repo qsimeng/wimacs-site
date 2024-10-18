@@ -12,3 +12,7 @@ Time: October 17th, 12:00 noon.
 <div style="text-align: justify;">
 Location: CoFo 102, Swansea University Bay Campus.
 </div>
+
+![Ada Lovelace Day Event](assets/img/group.png)
+
+![Ada Lovelace Day](assets/img/cake.png)
