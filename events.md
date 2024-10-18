@@ -10,6 +10,6 @@ WiMACS welcomes people at different stages of their careers or studies! Through 
 
 We successfully held our fist [Ada Lovelace Day ](https://en.wikipedia.org/wiki/Ada_Lovelace_Day) event at Swansea University Bay Campus! 
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/group.png" alt="Ada Lovelace Day" width="500" height="400">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/group.png" alt="Ada Lovelace Day" width="500" height="370">
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/cake.png" alt="Ada Lovelace Day Event" width="500" height="400">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/cake.png" alt="Ada Lovelace Day Event" width="500" height="370">
