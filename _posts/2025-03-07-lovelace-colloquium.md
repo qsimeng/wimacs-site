@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News
-subtitle: You are cordially invited to technocampes International Womens Day!
+subtitle: You are invited to technocampes International Womens Day!
 thumbnail-img: /assets/img/IWD.png
 ---
 
