@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News
-subtitle: Welcome to join International Women Day on 7th of Mar, 2025!
+subtitle: Welcome to join International Women's Day on 7th of Mar, 2025!
 thumbnail-img: /assets/img/IWD.png
 ---
 
