@@ -2,7 +2,7 @@
 layout: post
 title: News
 subtitle: Welcome to join Lovelace Colloquium abstract writing support session on 27th of Jan, 2025!
-thumbnail-img: /assets/img/LC.png
+thumbnail-img: /assets/img/IWD.png
 ---
 
 <div style="text-align: justify;">
