@@ -15,21 +15,21 @@ subtitle: Faculty members and Student Representatives
 ### Professor Elaine Crooks
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is in the Department of Mathematics at Swansea University. She is the Head of School of Mathematics and Computer Science.
+**Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is the Head of School of Mathematics and Computer Science.
 
 ---
 
 ### Dr Monika Seisenberger
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
-**Description:** [Dr Monika Seisenberger](https://www.swansea.ac.uk/staff/m.seisenberger/) is an Associate Professor in the Department of Computer Science at Swansea University. She is the Deputy Head of Computer Science Department.
+**Description:** [Associate Professor Monika Seisenberger](https://www.swansea.ac.uk/staff/m.seisenberger/) is the Deputy Head of Computer Science Department.
 
 ---
 
 ### Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
-**Description:** [Dr Alma Rahat](https://www.swansea.ac.uk/staff/a.a.m.rahat/) is an Associate Professor of Data Science in the Department of Computer Science at Swansea University. He is the Equality, Diversity and Inclusivity (EDI) Lead for the School of Mathematics and Computer Science.
+**Description:** [Associate Professor Alma Rahat](https://www.swansea.ac.uk/staff/a.a.m.rahat/) is the Equality, Diversity and Inclusivity (EDI) Lead for the School of Mathematics and Computer Science.
 
 ---
 
@@ -37,6 +37,14 @@ subtitle: Faculty members and Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/me.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University. She is the Equality, Diversity and Inclusivity (EDI) Lead for Computer Science Department.
+
+---
+
+### Dr Noemi Picco
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer in the Department of Mathematics at Swansea University. She is the Equality, Diversity and Inclusivity (EDI) Lead for the Mathematics Department.
+
 
 ---
 
@@ -94,14 +102,6 @@ subtitle: Faculty members and Student Representatives
 **Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
 
 ---
-
-### Dr Noemi Picco
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer in the Department of Mathematics at Swansea University.
-
----
-
 
 ### Tanaka Masunzambwa
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
