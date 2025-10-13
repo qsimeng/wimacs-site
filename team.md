@@ -75,19 +75,6 @@ subtitle: Faculty members and Student Representatives
 **Description:** [Professor Jen Pearson](https://www.swansea.ac.uk/staff/j.pearson/) is in the Department of Computer Science at Swansea University.
 
 ---
-### Dr Lu Zhang
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** Lu Zhang is a Lecturer in the Department of Computer Science at Swansea University.
-
----
-
-### Dr Yuanbo Wu
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/y.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Yuanbo Wu](https://www.swansea.ac.uk/staff/l.y.wu/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
-
----
 
 ### Dr Olga Petrovska
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
@@ -106,22 +93,34 @@ subtitle: Faculty members and Student Representatives
 ### Tanaka Masunzambwa
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Tanaka Masunzambwa is a second-year student studying Computer Science at Swansea university. She is the President of the Women in Engineering Society and a Student Ambassador.
+**Description:** Tanaka Masunzambwa is a second-year student representative studying Computer Science at Swansea university. She is the President of the Women in Engineering Society and a Student Ambassador.
 
 ---
 
 ### Lakshmi Venugopal 
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Lakshmi Venugopal is a first-year student studying Computer Science at Swansea university.
+**Description:** Lakshmi Venugopal is a first-year student representative studying Computer Science at Swansea university.
 
 ---
 
 ### Kaito Onyejeli 
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Kaito Onyejeli is a first-year student studying Computer Science at Swansea university.
+**Description:** Kaito Onyejeli is a first-year student representative studying Computer Science at Swansea university.
 
 ---
+
+### Former Member: Dr Lu Zhang
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** Lu Zhang is a Lecturer in the Department of Computer Science at Swansea University.
+
+---
+
+### Former Member: Dr Yuanbo Wu
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/y.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Dr Yuanbo Wu](https://www.swansea.ac.uk/staff/l.y.wu/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
 
 
