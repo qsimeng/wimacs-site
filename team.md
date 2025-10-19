@@ -13,7 +13,7 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### Professor Elaine Crooks
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/el.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/e.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is the Head of School of Mathematics and Computer Science.
 
