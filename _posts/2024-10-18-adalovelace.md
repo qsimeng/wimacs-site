@@ -2,7 +2,7 @@
 layout: post
 title: News
 subtitle: Welcome to the second Ada Lovelace Day Event! You’ll have the opportunity to network with students and faculty members, and leave with connections and confidence that last a lifetime! 
-thumbnail-img: /assets/img/group.png
+thumbnail-img: /assets/img/ada_1.png
 ---
 
 <div style="text-align: justify;">
