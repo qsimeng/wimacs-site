@@ -13,10 +13,10 @@ Time: October 20th, 16:00 pm.
 Location: CoFo 102, Swansea University Bay Campus.
 </div>
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_1.png" alt="Ada Lovelace Day">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_1.png" alt="Ada1">
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_2.png" alt="Ada Lovelace Day Event">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_2.png" alt="Ada2">
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_3.png" alt="Ada Lovelace Day Event">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_3.png" alt="Ada3">
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_4.png" alt="Ada Lovelace Day Event">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ada_4.png" alt="Ada4">
