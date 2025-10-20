@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News
-subtitle: Welcome to the second Ada Lovelace Day Event! You’ll have the opportunity to network with students and faculty members, and leave with connections and confidence that last a lifetime! 
+subtitle: Welcome to the Ada Lovelace Day Event. You will have the opportunity to network with faculty members, undergraduate, and graduate students, return with connections and confidence that last a lifetime! 
 thumbnail-img: /assets/img/ada_1.png
 ---
 
