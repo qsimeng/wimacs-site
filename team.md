@@ -90,24 +90,31 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Tanaka Masunzambwa
+### Year 3 Student Representative
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Tanaka Masunzambwa is a second-year student representative studying Computer Science at Swansea university. She is the President of the Women in Engineering Society and a Student Ambassador.
+**Description:** Tanaka Masunzambwa is also the President of the Women in Engineering Society and a Student Ambassador.
 
 ---
 
-### Lakshmi Venugopal 
+### Year 2 Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Lakshmi Venugopal is a first-year student representative studying Computer Science at Swansea university.
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** Lakshmi Venugopal, Kaito Onyejeli, Safia Fareed, Chaotiana, and Rosabeth.
 
 ---
 
-### Kaito Onyejeli 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+### Year 1 Student Representatives
 
-**Description:** Kaito Onyejeli is a first-year student representative studying Computer Science at Swansea university.
+**Description:** Muniird Adau, Tanusha Sivaji, Keiia Creeden, Lalitha Vemal Pournamy, Isatou Sowe, Gough Daisy.
+
+---
+
+### Year 0 Student Representative
+
+**Description:** Samurah Rahman.
 
 ---
 
