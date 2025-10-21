@@ -48,13 +48,6 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Ms Casey Hopkins
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
-
----
-
 ### Mrs Solmaz Safari
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
 
@@ -87,6 +80,13 @@ subtitle: Faculty members and Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ne.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
+
+---
+
+### Ms Casey Hopkins
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
 
 ---
 
